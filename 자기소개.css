@@ -181,12 +181,3 @@ body{
   font-size: 13px;
 }
 
-/* 반응형 */
-@media (max-width: 760px){
-  .grid{
-    grid-template-columns: 1fr;
-  }
-  .wide{
-    grid-column: auto;
-  }
-}
